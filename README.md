@@ -1,0 +1,1 @@
+# Basic weather app using Openweathermap API
