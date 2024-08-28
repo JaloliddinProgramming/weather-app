@@ -1,3 +1,3 @@
 # Basic weather app using Openweathermap API
 
-# https://jaloliddinprogramming.github.io/weather-app/ (live app)
+### https://jaloliddinprogramming.github.io/weather-app/ (live app)
