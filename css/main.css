@@ -54,7 +54,7 @@ body{
     justify-content: space-between;
 }
 
-.main .weather .temprature{
+.main .weather .temperature{
     font-size: 100px ;
 }
 
@@ -107,6 +107,6 @@ body{
     font-style: italic;
 }
 
-.forecast-body .forecast-card .card-temprature{
+.forecast-body .forecast-card .card-temperature{
     font-size: 20px;
 }
